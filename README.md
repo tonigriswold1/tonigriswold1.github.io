@@ -1,3 +1,4 @@
+<Thank you for allowing me to participate in the Further Assessment. Please click the button below to insert user information>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
